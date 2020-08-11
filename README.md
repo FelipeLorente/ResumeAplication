@@ -1,2 +1,2 @@
 # ResumeAplication
-ResumeAplication Personal feature
+ResumeAplication Personal Feature
